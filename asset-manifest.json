@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Reac-Practica-1-/static/css/main.582df482.css",
+    "main.js": "/Reac-Practica-1-/static/js/main.5f83e18b.js",
+    "static/media/Emma.png": "/Reac-Practica-1-/static/media/Emma.add10415a5668325d2f2.png",
+    "static/media/Sarah.png": "/Reac-Practica-1-/static/media/Sarah.2c504d1ebaf1961e4a40.png",
+    "static/media/Shaw.png": "/Reac-Practica-1-/static/media/Shaw.0d373888087fb18fc145.png",
+    "index.html": "/Reac-Practica-1-/index.html",
+    "main.582df482.css.map": "/Reac-Practica-1-/static/css/main.582df482.css.map",
+    "main.5f83e18b.js.map": "/Reac-Practica-1-/static/js/main.5f83e18b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.582df482.css",
+    "static/js/main.5f83e18b.js"
+  ]
+}
